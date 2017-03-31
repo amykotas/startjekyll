@@ -18,7 +18,7 @@ email: aekotas@gmail.com
 description: >
   Getting started with Jekyll.
 baseurl: "/startjekyll" # the subpath of your site, e.g. /blog
-url: “https://amykotas.github.io”
+url: "https://amykotas.github.io"
 twitter_username: amykotas
 github_username:  amykotas
 
@@ -31,7 +31,7 @@ sass:
   sass_dir: _sass
 include: [‘_pages’]
 exclude:
-  - Gefiel
+  - Gemfile
   - Gemfile.lock
 kramdown:
   input: GFM
